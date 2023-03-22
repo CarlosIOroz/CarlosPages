@@ -59,7 +59,7 @@
 </table>
 
 # *Ejemplo*
-### ![imagen](https://user-images.githubusercontent.com/118245002/226797174-f1f73890-ea35-4d9a-9ca4-6eaac25a38a8.png)
+### ![imagen](https://user-images.githubusercontent.com/118245002/226797302-037d45d5-3517-4090-8f17-223b40e72385.png)
 
 
 
