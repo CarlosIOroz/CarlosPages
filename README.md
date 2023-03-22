@@ -12,10 +12,12 @@
   <tr>
     <td class="tg-0pky">Resolución de 320x240 píxeles</td>
     <td class="tg-0pky">Tamaño de pantalla de 2.2 pulgadas</td>
+    <td class="tg-0pky">VCC power voltage</td>
   </tr>
   <tr>
     <td class="tg-0pky">Interfaz de comunicación SPI</td>
     <td class="tg-0pky">Velocidad de actualización de imagen alta</td>
+    <td class="tg-0pky">3.3V~5V </td>
   </tr>
 </tbody>
 </table>
