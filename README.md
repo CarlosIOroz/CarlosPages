@@ -2,7 +2,6 @@
 <br />
 
 # *Pantalla ILI9341*
-###### NTC significa "Coeficiente de temperatura negativo".
 ### Los termistores NTC son resistencias con un coeficiente de temperatura negativo, lo que significa que la resistencia disminuye al aumentar la temperatura. 
 
 # *¿Cúal es su usó?*
