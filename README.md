@@ -1,11 +1,11 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5649923.png" width="1051" height="108" alt="Pantalla ILI9341 2.8'' TFT-LCD" /></a>
 <br />
 
-# *Pantalla ILI9341*
-### Los termistores NTC son resistencias con un coeficiente de temperatura negativo, lo que significa que la resistencia disminuye al aumentar la temperatura. 
+# *¿Qué es la pantalla ILI9341?*
+### Es un tipo de pantalla de cristal líquido (LCD) de matriz activa y color que se utiliza comúnmente en dispositivos electrónicos como teléfonos inteligentes, tabletas, relojes inteligentes y otros dispositivos portátiles. 
 
-# *¿Cúal es su usó?*
-### Se utilizan principalmente como sensores de temperatura resistivos y dispositivos limitadores de corriente. 
+# *Especificaciones técnicas*
+### 
 
 # *Diagrama curva de caracteristica NTC.*
 <p align="center">
