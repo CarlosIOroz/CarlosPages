@@ -1,7 +1,7 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5649923.png" width="1051" height="108" alt="Pantalla ILI9341 2.8'' TFT-LCD" /></a>
 <br />
 
-# *¿Qué es un sensor de temperatura analogica (NTC)?*
+# *Pantalla ILI9341*
 ###### NTC significa "Coeficiente de temperatura negativo".
 ### Los termistores NTC son resistencias con un coeficiente de temperatura negativo, lo que significa que la resistencia disminuye al aumentar la temperatura. 
 
