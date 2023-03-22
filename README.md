@@ -104,14 +104,14 @@ send_command(b'\x3A\x55') # Establece el modo de color a 16 bits
 send_command(b'\x36\x08') # Establece la dirección de escaneo
 send_command(b'\x29') # Enciende el display
 
-# Establece el color de fondo en amarillo
+# Establece el color de fondo en azul
 send_command(b'\x2A') # Establece la posición horizontal
 send_data(bytes([0x00, 0x00, 0x00, 0xEF]))
 send_command(b'\x2B') # Establece la posición vertical
 send_data(bytes([0x00, 0x00, 0x01, 0x3F]))
 send_command(b'\x2C') # Inicia la escritura de píxeles
 
-# Llena la pantalla con el color amarillo
+# Llena la pantalla con el color azul
 for i in range(WIDTH * HEIGHT):
     send_data(bytes([0xFF, 0xE0]))
 ```
