@@ -1,4 +1,4 @@
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5620306.png" width="1372" height="90" alt="Pantalla ILI9341 2.8" TFT-LCD /></a>
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5620306.png" width="1372" height="90" alt="Pantalla ILI9341 2.8'' TFT-LCD" /></a>
 <br />
 
 # *¿Qué es un sensor de temperatura analogica (NTC)?*
