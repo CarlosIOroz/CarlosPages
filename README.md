@@ -59,9 +59,11 @@
 </table>
 
 # *Ejemplo*
-### Has clic [aqui](https://wokwi.com/projects/359129543378762753) para entrar a el proyecto en Wokwi
+
 ### Se imprime el color azul en toda la pantalla ili9341
 ### ![imagen](https://user-images.githubusercontent.com/118245002/226797302-037d45d5-3517-4090-8f17-223b40e72385.png)
+
+### Has clic [aqui](https://wokwi.com/projects/359129543378762753) para entrar a el proyecto en Wokwi
 
 # *Codigo*
 ```python
